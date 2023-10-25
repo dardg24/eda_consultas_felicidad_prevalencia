@@ -1,0 +1,18 @@
+,institucion,primeras_consultas,primeras_consultas,primeras_consultas,primeras_consultas,primeras_consultas,primeras_consultas,consultas_seguimiento,consultas_seguimiento,consultas_seguimiento,consultas_seguimiento,consultas_seguimiento,consultas_seguimiento,total_anual
+,,mean,median,sum,min,max,std,mean,median,sum,min,max,std,sum
+0,"Centro Hospitalar Barreiro/Montijo, EPE",546.08,553.0,6553,92,989,290.95,3729.58,3791.0,44755.0,704.0,6563.0,1889.67,51308
+1,"Centro Hospitalar Médio Tejo, EPE",480.42,477.5,5765,68,911,281.18,2488.83,2603.5,29866.0,433.0,4515.0,1307.23,35631
+2,Centro Hospitalar Psiquiátrico de Lisboa,1342.42,1351.0,16109,227,2429,700.15,11135.58,11549.0,133627.0,1907.0,19849.0,5787.69,149736
+3,"Centro Hospitalar Universitário Lisboa Central, EPE",1297.82,1240.0,14276,295,2391,694.73,5050.27,5085.0,55553.0,1048.0,9049.0,2606.77,69829
+4,"Centro Hospitalar Universitário de Lisboa Norte, EPE",1873.0,1855.5,22476,308,3608,1071.22,13611.42,13982.0,163337.0,2326.0,24402.0,7123.3,185813
+5,"Centro Hospitalar de Lisboa Ocidental, EPE",769.5,712.5,9234,125,1523,460.0,5264.25,5224.5,63171.0,849.0,9753.0,2881.48,72405
+6,"Centro Hospitalar de Setúbal, EPE",535.58,581.0,6427,79,878,255.4,1418.75,1488.5,17025.0,220.0,2546.0,757.71,23452
+7,"Centro Hospitalar do Oeste, EPE, EPE",342.42,336.5,4109,75,610,178.21,1074.83,1082.5,12898.0,162.0,2002.0,589.66,17007
+8,"Hospital Distrital de Santarém, EPE",4.75,1.0,57,0,45,12.7,1.33,0.0,16.0,0.0,10.0,2.96,73
+9,"Hospital Garcia de Orta, EPE",706.17,712.5,8474,103,1303,382.4,5688.25,5882.5,68259.0,902.0,10181.0,2986.9,76733
+10,"Hospital Professor Doutor Fernando Fonseca, EPE",576.67,595.0,6920,78,993,301.58,3072.17,3171.0,36866.0,473.0,5458.0,1645.55,43786
+11,"Hospital de Cascais, PPP",345.82,340.0,3804,47,631,186.81,1822.0,1907.0,20042.0,314.0,3047.0,832.92,23846
+12,"Hospital de Loures, PPP",565.67,574.5,6788,86,1046,314.29,3633.17,3747.0,43598.0,628.0,6501.0,1901.49,50386
+13,"Hospital de Vila Franca de Xira, PPP",130.08,130.5,1561,25,234,70.82,1447.42,1412.5,17369.0,247.0,2667.0,784.11,18930
+14,Instituto Gama Pinto,0.0,0.0,0,0,0,0.0,214.0,208.0,2354.0,32.0,396.0,122.38,2354
+15,"Instituto Português Oncologia de Lisboa, EPE",802.08,803.0,9625,108,1466,452.17,2384.58,2355.0,28615.0,482.0,4290.0,1208.59,38240
